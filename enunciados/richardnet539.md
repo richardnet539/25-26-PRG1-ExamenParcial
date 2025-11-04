@@ -109,6 +109,7 @@ System.out.println(iva);
 
 ¿Qué observas en este código?
 
+La logicamatematica esta mal porque deberia estar ivaIntroducido/CIEN_PORCIENTO 
 ---
 
 ## Pregunta 7
