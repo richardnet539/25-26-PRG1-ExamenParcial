@@ -123,6 +123,7 @@ int descuento = cantidadDeUnidades >= CANTIDAD_DE_CIEN ? TIPO_DE_DESCUENTO_DE_QU
 
 ¿Qué observas en este código?
 
+El codigo tienem uno problema com el ternario tiene 2 constantes CANTIDAD_DE_CIEN acabaria por no tener sentido devido que se tienes la cantidad de cien el rpograma funcionaria nesta parte  CANTIDAD_DE_CIEN ? TIPO_DE_DESCUENTO_DE_QUINCE e nunca havera de funcionar nesta CANTIDAD_DE_CIEN  ?TIPO_DE_DESCUENTO_DE_CINCO
 ---
 
 ## Pregunta 8
