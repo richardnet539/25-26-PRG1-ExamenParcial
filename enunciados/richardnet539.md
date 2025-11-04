@@ -109,7 +109,7 @@ System.out.println(iva);
 
 ¿Qué observas en este código?
 
-La logica matematica esta mal porque deberia estar ivaIntroducido/CIEN_PORCIENTO 
+La logica matematica esta mal porque deberia estar ivaIntroducido/CIEN_PORCIENTO e la se la logica esta mal el input para el usario estara mal tambien
 ---
 
 ## Pregunta 7
