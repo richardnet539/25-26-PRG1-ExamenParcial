@@ -78,6 +78,7 @@ if (columna == 3) {
 
 ¿Qué observas en este código?
 
+El continuacion del ternario se encuentra em outra linha o que termina por dexar mas confuso el codigo e tambien nesse caso seria mas facil por comprender se utilizase if y else 
 ---
 
 ## Pregunta 5
