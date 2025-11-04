@@ -93,6 +93,7 @@ for (int fila = 1; fila <= 7; fila++) {
 ```
 
 ¿Qué observas en este código?
+
 El codigo es possivel observar que el "separador" esta en snakecase pero es uno constante entonces deveria estar em upper_camel_case: SEPARADOR.
 ---
 
