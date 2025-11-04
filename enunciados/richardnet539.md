@@ -140,7 +140,6 @@ int segundos = totalSegundos % MINUTOS_EN_SEGUNDOS;
 
 ¿Qué observas en este código?
 
-El codigo las variables seria meljor se estivesse inicializadas en el inicio del codigo
 ---
 
 ## Pregunta 9
