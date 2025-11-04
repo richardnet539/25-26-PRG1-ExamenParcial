@@ -177,4 +177,4 @@ System.out.println("Precio unitario final: " + total + "$");
 
 ¿Qué observas en este código?
 
-
+En el codigo es possible observar que la linha de codigo para inicializar el precioUnitarioFinal la estrutura logica tienen "()" en una multiplicacion que no es necessario porque la multiplicacion vienem primeiro 
